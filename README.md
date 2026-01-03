@@ -40,4 +40,4 @@ repl process died unexpectedly: 
 to get the url, just open the project in repl.it and copy the content of your browser's address bar/url.
 
 #certificalt:
-![Certificate](
+![Certificate](https://github.com/laxmi501/Deloitte_Technology_JobSimulation/blob/aec346b37434b5742bb74ccca167aa8c03c47019/Certificate.pdf)
